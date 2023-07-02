@@ -29,8 +29,7 @@ After Random Under Sampling and Near Miss Sampling, both False Positives and Fal
 We utilized Classification Report and Matthew's Co-relation coefficient as metrics for our model.
 
 
-[This is how a link is added to the readme file using square brackets, 
-put the link in round brackets and the statement in square brackets next to each other]
+
 
 [Link to Drive](https://drive.google.com/drive/folders/1JDCJN3Dx7XG-XaYMHgghcKy20O3S73xU?usp=drive_link)
 
